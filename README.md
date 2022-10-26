@@ -1,2 +1,2 @@
 # Snake Game
-Written in Java using IntelliJ.
+Written in Java using IntelliJ IDE.
